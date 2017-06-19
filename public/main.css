@@ -1,0 +1,38 @@
+body{
+  background-color: #F6F4D2;
+  font-family: 'Pompiere', cursive;
+  text-align: center;
+  align-items: center;
+}
+#heading{
+  font-family: 'Merienda One', cursive;
+  color: #8C271E;
+  text-align: center;
+}
+#navbar{
+  text-align: center;
+}
+#a{
+  text-align: center;
+}
+h2{
+  font-size: 30px;
+}
+.img{
+  height: 20px;
+  width: 20px;
+}
+#t1{
+  padding-left: 200px;
+}
+#t2{
+  padding-left: 250px;
+}
+#p1{
+  align-items: center;
+  width: 600px;
+  height: auto;
+}
+.map{
+  align-self: center;
+}
